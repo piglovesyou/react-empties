@@ -1,0 +1,27 @@
+{
+  "name": "react-empties",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piglovesyou/react-empties.git"
+  },
+  "keywords": [
+    "react",
+    "ui",
+    "framework",
+    "bourbon",
+    "refills",
+    "empties"
+  ],
+  "author": "piglovesyou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/piglovesyou/react-empties/issues"
+  },
+  "homepage": "https://github.com/piglovesyou/react-empties#readme"
+}
